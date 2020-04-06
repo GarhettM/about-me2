@@ -14,7 +14,10 @@ header {
   width: 40%;
   float: right;
   padding-right: 200px;
-  padding
+  border-style: solid;
+  border-color: green;
+  border-radius: 3%;
+  border-
 }
 
 .nextto p {
@@ -34,6 +37,7 @@ h2 {
 div {
   border: crimson;
   border-radius: .3em;
+  padding-left: 400px;
   
 }
 
