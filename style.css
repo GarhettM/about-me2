@@ -1,0 +1,57 @@
+body {
+  font: 75% georgia, sans-serif;
+  background-color: ivory;
+  line-height: 1.5;
+  color: #555753;
+
+}
+
+header {
+  text-align: center;
+}
+
+.nextto {
+  width: 40%;
+  float: right;
+  padding-right: 200px;
+  padding
+}
+
+.nextto p {
+  background-color: #69B206;
+}
+
+p {
+  height: 80%;
+  width: 80%;
+}
+
+h2 {
+  letter-spacing: .5em;
+  color: blue;
+}
+
+div {
+  border: crimson;
+  border-radius: .3em;
+  
+}
+
+section {
+  display: inline;
+}
+
+.image img {
+  height: 500px;
+  width: auto;
+}
+
+.image {
+  margin: 0px;
+  padding-left: 400px;
+}
+
+.nextto ul  {
+  back
+  
+}
